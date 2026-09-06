@@ -1,0 +1,19 @@
+{
+  "name": "sql-quest-dataverse",
+  "version": "1.3.6",
+  "description": "SQL Quest: Lost in the DataVerse — Playable Edition for SSBT Ignite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sql",
+    "game",
+    "ssbt-ignite",
+    "education",
+    "sqlite",
+    "dataverse"
+  ],
+  "author": "SSBT Ignite",
+  "license": "MIT"
+}
