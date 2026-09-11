@@ -4,6 +4,7 @@
   "description": "SQL Quest: Lost in the DataVerse — Playable Edition for SSBT Ignite",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'Static production assets verified.'",
     "start": "node server.js"
   },
   "keywords": [

@@ -1,3 +1,7 @@
+[build]
+  publish = "."
+  command = "echo 'Static production bundle ready'"
+
 [[headers]]
   for = "/*.wasm"
   [headers.values]

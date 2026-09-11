@@ -1,5 +1,6 @@
 {
-  "version": 2,
+  "buildCommand": "echo 'Static production bundle ready'",
+  "outputDirectory": ".",
   "cleanUrls": true,
   "headers": [
     {
@@ -23,12 +24,6 @@
           "value": "public, max-age=31536000, immutable"
         }
       ]
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
     }
   ]
 }
